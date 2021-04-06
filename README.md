@@ -16,3 +16,5 @@ Test data images : "Benign" - 304 , "Malignant" - 75
 ## 2) Handling data imbalance in training data where the raio of Benign:Malignant  = 727 : 173 using  Pytorch weighted random sampling 
 
 ## 3) Transfer Learning using pytorch Densenet121 to classify images 
+
+## 4) Salienc maps detect features of melanoma
