@@ -9,10 +9,10 @@ Flask web application to predict skin cancer and detect features of  melanoma us
 ### The app can be viewed by public ip :  http://18.224.251.56/  (Feel free to upload test images from link below for prediction results) 
 
 ### 1)  Dataset desription : Image folder containing two folders of test data and train data within which each contains "Beningn" and "Malignant" skin lesions.
-
-Train data images : "Benign" - 727  , "Malignant" - 173      link : https://drive.google.com/file/d/1dPfxB_jC_Q-utQ7w9IqlKySf2zScl2NM/view?usp=sharing
+link : https://drive.google.com/file/d/1dPfxB_jC_Q-utQ7w9IqlKySf2zScl2NM/view?usp=sharing
+Train data images : "Benign" - 727  , "Malignant" - 173      
 Test data images : "Benign" - 304 , "Malignant" - 75
-Data canbe
+
 
 ### 2) Handling data imbalance in training data where the raio of Benign:Malignant  = 727 : 173 using  Pytorch weighted random sampling 
 
