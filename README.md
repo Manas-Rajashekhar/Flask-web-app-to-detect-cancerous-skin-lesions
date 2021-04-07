@@ -2,7 +2,12 @@
 
 # Flask-web-application-to-predict-cancerous-skin-lesions
 
-Flask web application to predict skin cancer and detect features of  melanoma using saliency maps 
+Flask web application to predict skin cancer and detect features of  melanoma using saliency maps .
+
+The full code can be found on my google drive link (Since few files are slightly above upload limit  :
+
+https://drive.google.com/drive/folders/1o6lvkWy2EX7ZlvJWqIpQr9UUQwY4gBbU?usp=sharing
+
 
 ### End  to end  Deployment of flask application on AWS ECS using docker image and  Fargate service. 
 
