@@ -28,6 +28,6 @@ Test data images : "Benign" - 304 , "Malignant" - 75
 
 ### 5) Downloading  the trained model as Skinlesions.pt as this model will be used within the flask application  
 
-### 6) Docker to conatinerize the applications along with all dependencies and required libraries
+### 6) Docker tools to containerize the applications along with all dependencies and required libraries
 
 ### 7) Maintain AWS ECR and the docker image is pushed onto ECR and then deployed on severless services such as Fargate
