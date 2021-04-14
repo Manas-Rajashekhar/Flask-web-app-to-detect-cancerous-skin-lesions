@@ -34,4 +34,6 @@ Test data images : "Benign" - 304 , "Malignant" - 75
 
 # DEMO IMAGES
 
-![](demo.PNG)
+![](demo.PNG)  
+
+![](demo2.PNG)
