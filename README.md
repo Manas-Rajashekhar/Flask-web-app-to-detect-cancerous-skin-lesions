@@ -31,3 +31,7 @@ Test data images : "Benign" - 304 , "Malignant" - 75
 ### 6) Docker tools to containerize the application along with all dependencies and required libraries
 
 ### 7) Maintain AWS ECR and the docker image is pushed onto ECR and then deployed on severless services such as Fargate
+
+# DEMO IMAGES
+
+![image](./demo.png)
