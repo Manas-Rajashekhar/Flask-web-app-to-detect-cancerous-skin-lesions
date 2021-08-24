@@ -1,6 +1,6 @@
 
 
-# Flask-web-application-to-predict-cancerous-skin-lesions
+# Flask-web-application-to-predict-cancerous-skin-lesions with Pytorch
 
 Flask web application to predict skin cancer and detect features of  melanoma using saliency maps .
 
